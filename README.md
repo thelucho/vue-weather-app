@@ -1,5 +1,5 @@
 # vue-weather-app
-Vue-Weather-App is a simple weather forecast application, which uses [Open Weather API](https://openweathermap.org/api).
+Vue Weather App is a simple weather forecast application, which uses [Open Weather Map API](https://openweathermap.org/api)
 
 ## Project setup
 ```
