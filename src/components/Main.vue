@@ -105,14 +105,12 @@ export default {
             }
           })
         .catch((error) => {
-          console.log(error)
           this.errorMsg = true
         })
       }
     },
 
     setResults(results) {
-      console.log(results)
       this.weatherData = results
     },
 
